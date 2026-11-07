@@ -1,0 +1,16 @@
+Data Cleanup Steps:
+  - Comma to dot decimals
+  - Checking and handling for missing hours
+  - Checking NaN values
+
+Extracting Features
+  - Hour of the day - 0-23
+  - Day of the week - 0-6
+  - Month - 1-12
+
+Creating Lag features
+  Consumption Lags
+  Weather Lags
+
+Normalization/Scaling
+
